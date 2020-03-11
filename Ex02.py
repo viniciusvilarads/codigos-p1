@@ -12,3 +12,12 @@ print("### Em um banho de 5 minutos, gastando 45 litros de água!### ")
 print("São necessário {} banhos para gastar 990L de água!".format(valInteiro))
 print("Para consumir 1m^3 de água (1.000 litros), são necessário {:.2f} banhos!".format(gastoAgua))
 
+print()
+print("-"*60)
+print()
+
+tempoBanho = int(input("Quanto tempo demora no banho: "))
+agua = tempoBanho * 9
+
+print("Em um banho de de {} são gastos {}L de água!".format(tempoBanho, agua))
+
