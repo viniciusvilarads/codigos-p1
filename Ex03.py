@@ -10,7 +10,9 @@ kmInicial = float(input("Informe o Km Inicial: "))
 kmFinal = float(input("Informe o Km Final: "))
 litros = float(input("Quantos litros foram gastos: "))
 
-media = litros / (kmFinal - kmInicial)
+kmPercorrido = kmFinal - kmInicial
+media = kmPercorrido / litros 
 
+print("Foram percorridos {} Km".format(kmPercorrido))
 print("Foram gastos em média {:.2f}L de combustível".format(media))
 
