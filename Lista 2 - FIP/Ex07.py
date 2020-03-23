@@ -1,7 +1,12 @@
 """
-7. Faça um programa que calcule a área total (m​2​) de uma casa com 4 cômodos.
-O usuário deve inserir a largura e comprimento de cada um dos cômodos,
-calcular a área individual de cada um e por fim exibir a área total da casa.
+Vinícius Vilar - ADS UNIFIP - Programação 1 - Lista 2 Estrutura de Decisão
+Patos - PB | 2020
+
+7. Faça um programa que calcule a área total (m​2​) de uma casa com 4 
+cômodos. O usuário deve inserir a largura e comprimento de cada um 
+dos cômodos, calcular a área individual de cada um e por fim exibir 
+a área total da casa.
+
 """
 
 largPrimComodo = float(input("Largura 1º cômodo: "))

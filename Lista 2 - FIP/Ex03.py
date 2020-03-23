@@ -1,5 +1,5 @@
 """
-Vinícius Vilar - ADS UNIFIP - Programação 1 - Lista 4 Estrutura de Decisão
+Vinícius Vilar - ADS UNIFIP - Programação 1 - Lista 2 Estrutura de Decisão
 Patos - PB | 2020
 
 3. Faça um programa que calcule a média de consumo de combustível de um veículo.

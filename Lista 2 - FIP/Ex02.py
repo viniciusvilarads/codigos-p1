@@ -1,5 +1,5 @@
 """
-Vinícius Vilar - ADS UNIFIP - Programação 1 - Lista 4 Estrutura de Decisão
+Vinícius Vilar - ADS UNIFIP - Programação 1 - Lista 2 Estrutura de Decisão
 Patos - PB | 2020
 
 2. Em um banho de 5 minutos, fechando o registro ao se ensaboar, são gastos

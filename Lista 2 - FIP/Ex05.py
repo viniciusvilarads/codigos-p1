@@ -1,8 +1,11 @@
 """
-Vinícius Vilar - ADS UNIFIP - Programação 1 - Lista 4 Estrutura de Decisão
+Vinícius Vilar - ADS UNIFIP - Programação 1 - Lista 2 Estrutura de Decisão
 Patos - PB | 2020
 
-
+5. Faça um programa que calcule o valor a ser pago por uma dívida em 
+atraso. O usuário deve informar o valor original da dívida 
+(ex. R$ 50,00), a quantidade de dias em atraso (ex. 35 dias) e o 
+valor da multa por dia de atraso (ex. R$ 0,25).
 
 """
 
